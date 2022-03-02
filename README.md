@@ -4,7 +4,7 @@ Homework Assignment for Week 2 by Jemima Siddiqui.
 
 # 02 About the Project - Professional Portfolio
 
-The professional portfolio project consists of a homepage encompassing deployed application and work samples for employers. The navigation bar  consists of three options: About me, Work and Contact me. The homepage is fully accessible and ensures that people with disabilities can access the homepage using assistive technologies such as image captions. 
+The professional portfolio project consists of a homepage encompassing deployed applications (NOTE: The application links provided are other peoples' work and are used for demonstation purposes ONLY) and work samples for employers. The navigation bar  consists of three options: About me, Work and Contact me. The homepage is fully accessible and ensures that people with disabilities can access the homepage using assistive technologies such as image captions. 
 
 ![Professional portfolio homepage.](./assets/images/homepage-screenshot.png)
 
@@ -73,7 +73,7 @@ The About Me section consists of a professional summary of the developer and a r
 
 2. Work section: 
 
-The work section consists of a slide bar with images of the developer's deployed applications. Hovering over one of the images causes that image to enlarge. Furthermore, by clicking on the images, users will be redirected to the corresponding deployed application. 
+The work section consists of a slide bar with images of the developer's deployed applications. NOTE: The application links provided are other peoples' work and are used for demonstation purposes ONLY. Hovering over one of the images causes that image to enlarge. Furthermore, by clicking on the images, users will be redirected to the corresponding deployed application. 
 
 ![Work section](./assets/images/work-screenshot.png)
 
@@ -90,6 +90,7 @@ The homepage is fully accessible and ensures that people with disabilities can a
 ## Credits
 
 * This README.md file was created through the help of the following tutorial: [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
+* The application links provided are other peoples' work and are used for demonstation purposes ONLY.
 
 ## Main Features
 
