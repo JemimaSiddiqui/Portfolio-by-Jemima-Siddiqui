@@ -32,7 +32,7 @@ In order to access the professional portfolio homepage, navigate to the followin
 
 ### Pulling the repository from Git 
 
-If you would like to acess the source code (HTML and CSS files) and the images used in the Horiseon homepage, please navigate to the following public Github repository [Github Repository](https://github.com/JemimaSiddiqui/Portfolio-by-Jemima-Siddiqui.git). 
+If you would like to acess the source code (HTML and CSS files) and the images used in the professional portfolio homepage, please navigate to the following public Github repository [Github Repository](https://github.com/JemimaSiddiqui/Portfolio-by-Jemima-Siddiqui.git). 
 
 * Clone the repository to your local desktop using the following steps:
 
@@ -57,7 +57,7 @@ If you would like to acess the source code (HTML and CSS files) and the images u
 
 ## Usage 
 
-This section contains instructions on how to use the Horiseon homepage. 
+This section contains instructions on how to use the professional portfolio homepage. 
 
 1. Navigation bar: 
 
