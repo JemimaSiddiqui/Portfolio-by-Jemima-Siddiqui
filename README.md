@@ -1,8 +1,6 @@
 # Portfolio-by-Jemima-Siddiqui
 
-Homework Assignment for Week 2 by Jemima Siddiqui. 
-
-# 02 About the Project - Professional Portfolio
+# About the Project - Professional Portfolio
 
 The professional portfolio project consists of a homepage encompassing deployed applications (NOTE: The application links provided are other peoples' work and are used for demonstation purposes ONLY) and work samples for employers. The navigation bar  consists of three options: About me, Work and Contact me. The homepage is fully accessible and ensures that people with disabilities can access the homepage using assistive technologies such as image captions. 
 
