@@ -214,7 +214,7 @@ div.scrollmenu a {
 }
   
 @media screen and (max-width: 768px) {
-    header, main {
+    header, main, .about_me, .content {
       flex-direction: column;
     }
   
