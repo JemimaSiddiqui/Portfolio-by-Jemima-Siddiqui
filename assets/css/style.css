@@ -33,7 +33,7 @@ nav a {
     display: inline-flex; 
     text-decoration: none; 
     text-transform: uppercase;
-    font-size: 14px; 
+    font-size: 18px; 
     font-weight: bold; 
     font-family: 'Lato'; 
     color: black; 
@@ -58,7 +58,7 @@ h2 {
 }
 
 p {
-    font-size: 16px; 
+    font-size: 22px; 
     margin-top: 20px; 
     line-height: 1.2; 
 }
@@ -149,7 +149,7 @@ div.scrollmenu a {
 
 .card-image{ 
     height: 300px; 
-    width: 300px; 
+    width: 500px; 
     transition: all .2s ease-in-out; 
 }
 
