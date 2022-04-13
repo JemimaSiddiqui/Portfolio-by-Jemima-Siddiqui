@@ -4,6 +4,11 @@ body {
     line-height: 1; 
     font-size: 14px; 
 }
+html,
+body {
+   width: 100%;
+   margin: 0 auto;
+}
 
 header {
     display: flex; 
@@ -100,8 +105,8 @@ div.scrollmenu a {
     float: right; 
     margin-right: 50px;
     margin-left: 50px;  
-    width: 280px; 
-    height: 320px; 
+    width: 210px; 
+    height: 230px; 
 }
 
 .float-left{ 
@@ -116,7 +121,7 @@ div.scrollmenu a {
 
 .about_me {
     padding: 50px; 
-    height: 400px; 
+    height: auto; 
     font-family: 'Lato'; 
     margin-top: 40px; 
     background-color: #dfbdb8; 
@@ -212,9 +217,10 @@ div.scrollmenu a {
     background: black;
     color: white;
 }
+
   
 @media screen and (max-width: 768px) {
-    header, main, .about_me, .content {
+    header, main, .about_me, .content .work .contact_me {
       flex-direction: column;
     }
   
