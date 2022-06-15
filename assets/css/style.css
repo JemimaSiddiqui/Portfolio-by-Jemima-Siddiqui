@@ -131,7 +131,7 @@ div.scrollmenu a {
 
 .work {
     padding: 50px; 
-    height: 550px; 
+    height: 600px; 
     font-family: 'Lato'; 
     margin-top: 40px;
     background-color: #fffaef; 
@@ -236,12 +236,15 @@ div.scrollmenu a {
 
 .imgButton{
     text-align:center;
+    margin-bottom: 30px;
+    
 }
 
 div#theParent {
     position: relative;
     height: 300px; 
     width: 500px; 
+    margin-right: 0px;
 }
   
 div#theChild {
@@ -250,3 +253,19 @@ div#theChild {
     left: 900px; 
 
 }
+
+.btn {
+    background-color:#dfbdb8; 
+    font-size: 16px;
+    border: rgb(237, 152, 152);
+    padding: 10px;
+    transition-duration: 0.4s;
+}
+
+
+.btn:hover {
+    background-color: #d8867a; /* Green */
+    color: white;
+}
+
+.container{ display: inline-block; } 
