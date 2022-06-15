@@ -71,7 +71,7 @@ The About Me section consists of a professional summary of the developer and a r
 
 2. Work section: 
 
-The work section consists of a slide bar with images of the developer's deployed applications. NOTE: The application links provided are other peoples' work and are used for demonstation purposes ONLY. Hovering over one of the images causes that image to enlarge. Furthermore, by clicking on the images, users will be redirected to the corresponding deployed application. 
+The work section consists of a slide bar with images of the developer's deployed applications. Hovering over one of the images causes that image to enlarge and by clicking on the images users will be redirected to the corresponding github repositories. Users can also click on the "View Deployed Application" button to be redirected to the corresponding deployed application. 
 
 ![Work section](./assets/images/work-screenshot.png)
 
