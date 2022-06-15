@@ -160,7 +160,7 @@ div.scrollmenu a {
 
 .card-image:hover { 
     transform: scale(1.1); 
-    margin-bottom: 50px; 
+    margin-bottom: 10px; 
 }
 
 .image-caption {
@@ -232,4 +232,21 @@ div.scrollmenu a {
       width: 100%;
       text-align: center;
     }
+}
+
+.imgButton{
+    text-align:center;
+}
+
+div#theParent {
+    position: relative;
+    height: 300px; 
+    width: 500px; 
+}
+  
+div#theChild {
+    position:absolute;
+    bottom: 40px;
+    left: 900px; 
+
 }
